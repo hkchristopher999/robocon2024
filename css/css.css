@@ -1,0 +1,22 @@
+.content{background: url('../imgs/home_bg_hall.png'); background-size: cover;background-position-y: bottom;}
+.footer{background: url('../imgs/Vector.png');background-size: cover;}
+/*.start_date{background: url('../imgs/start_date.png'); background-position: -150px;}-*/
+
+
+
+
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+}
